@@ -2,7 +2,7 @@ package = "LuaSQL-MySQL"
 version = "2.6.0-3"
 source = {
   url = "git+https://github.com/lunarmodules/luasql.git",
-  branch = "2.6.0",
+  branch = "master",
 }
 description = {
    summary = "Database connectivity for Lua (MySQL driver)",
